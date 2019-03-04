@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/Donnelly.pdf
+permalink: /files/Donnelly_CV.pdf
 author_profile: true
 redirect_from:
   - /resume
