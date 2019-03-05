@@ -5,10 +5,9 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2017-06-23
 venue: 'Scientific Reports'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://patdonnelly.github.io/files/JooDonnellyYeatman_2017.pdf'
 citation: 'Joo, S.J., Donnelly, P.M., & Yeatman, J.D. (2017). &quot;The causal relationship between dyslexia and motion perception reconsidered..&quot; <i>Scientific Reports</i>. 7(1).'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://patdonnelly.github.io/files/JooDonnellyYeatman_2017.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
